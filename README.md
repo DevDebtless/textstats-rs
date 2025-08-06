@@ -37,7 +37,9 @@ Example
 `cargo run -- sample.txt`
 
 Project Structure
+```text
 textstats-rs/
 ├── Cargo.toml       # Project metadata and dependencies
 └── src/
     └── main.rs      # Application entry point
+```
