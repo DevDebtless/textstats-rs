@@ -7,8 +7,8 @@ A command-line tool written in Rust that provies detailed statistics about a tex
 - Word count  
 - Character count  
 - Line count  
-- Average word length  
-- Longest word  
+- Average word length (coming soon)  
+- Longest word (coming soon)  
 - Most common word (coming soon)  
 
 ## Why Rust?  
